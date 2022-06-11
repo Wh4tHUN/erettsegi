@@ -12,4 +12,3 @@ Tantárgyak:
 
 Ha valamiféle tétel hiányzik / hiányos, nyiss egy PR-t, és elfogadom.
 
-T
