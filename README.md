@@ -8,7 +8,7 @@ Tantárgyak:
 - Némi programozás elmélet
 
 Mivel tudod megnyítni a fájlokat?
--.pdf -> edge, etc
+- .pdf -> edge, etc
 - .docx/doc -> word
 - .xlsx/xls -> excel
 - .png -> alap képkezelő
