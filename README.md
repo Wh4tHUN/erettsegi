@@ -1,10 +1,9 @@
 # erettsegi
-Ez a repo tartalmazza az összes 11.-es és 12.-s érettségi segédletet / tételt ami segitség lehet a szóbeli érettségi során.
+Ez a repo néhány 11.-es és 12.-s érettségi segédletet / tételt tartalmaz, ami segitség lehet a szóbeli érettségi során.
 
 Tantárgyak:
 - Magyar
 - Irodalom
-- Angol
 - Hálózat
 - Némi programozás elmélet
 
